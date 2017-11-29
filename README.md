@@ -1,3 +1,5 @@
+[![Snap Status](https://build.snapcraft.io/badge/ibaidev/zotero-snap.svg)](https://build.snapcraft.io/user/ibaidev/zotero-snap)
+
 # zotero-snap
 An unofficial snap package of the zotero standalone client.
 
