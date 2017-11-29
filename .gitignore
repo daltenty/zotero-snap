@@ -1,6 +1,6 @@
+snap/.snapcraft/state
 parts/
 prime/
-snap/
 stage/
 *.snap
 
