@@ -9,7 +9,7 @@ grade: devel
 confinement: strict
 
 apps:
-  zotero:
+  zotero-standalone:
     command: desktop-launch $SNAP/zotero
     plugs:
       - x11
@@ -38,4 +38,3 @@ parts:
       - libxt6
     after:
       - desktop-gtk3
-

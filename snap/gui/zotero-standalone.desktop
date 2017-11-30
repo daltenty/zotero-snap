@@ -5,4 +5,3 @@ Exec=zotero-standalone
 Name=Zotero
 Icon=${SNAP}/meta/gui/icon.png
 Categories=Utility;
-Name[eu_ES]=zotero-standalone
